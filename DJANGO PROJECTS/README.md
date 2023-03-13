@@ -1,1 +1,2 @@
-Built a personal portfolio using Django application
+##Django project
+Built a personal portfolio using django web framework
