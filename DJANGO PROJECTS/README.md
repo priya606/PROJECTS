@@ -1,2 +1,2 @@
-# Built python begineer projects 
-Begineer level projects in Python
+# Django-project
+Bulit personal portfolio using django web framework
