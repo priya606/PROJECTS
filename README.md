@@ -11,3 +11,6 @@ Built various Machine Learning models by using supervised and unsupervised ml al
    1. Supervised - Regression,Naive Bayes,KNN,Decision Trees,SVM
    2. Unsupervised -KMeans Clustering
   
+## Django Project
+* [Portfolio](https://github.com/priya606/PROJECTS/tree/main/DJANGO%20PROJECTS)
+* Implemented the portfolio using Django
