@@ -1,2 +1,3 @@
 # Built python begineer projects 
-Begineer level projects in Python
+These are some begineer projects in python that i have implemented includes 
+<a href="#" class="button big">Create Project</a>
