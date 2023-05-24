@@ -1,3 +1,3 @@
 # Created Alarm Clock Generator using GUI and Python
 
-![My Image](../images/ErlqAQTOOM.jpg)
+![My Image](C:\Users\sai priya\Documents\ShareX\Screenshots\2023-05\ErlqAQTOOM.png)
