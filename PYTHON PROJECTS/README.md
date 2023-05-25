@@ -10,3 +10,7 @@ These are some begineer projects in python that i have implemented includes
 ### 4.Tic-Tac-Toe
  * Tic-tac-toe , noughts and crosses, or Xs and Os is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid.
    The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+### 5.Alarm clock generator
+* Generates alram buzzer when the time given by user is same as the ongoing time
+### 6.Text-to-speech recognition
+* Converts the given text into speech by using google translator,and playsound
