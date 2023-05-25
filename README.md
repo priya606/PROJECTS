@@ -5,6 +5,7 @@
 * [Minesweeper](https://github.com/priya606/PROJECTS/tree/main/PYTHON%20PROJECTS/Minesweeper)
 * [Tic-Tac-Toe](https://github.com/priya606/PROJECTS/tree/main/PYTHON%20PROJECTS/Tic-Tac-Toe)
 * [Alarm Clock Generator using GUI](https://github.com/priya606/PROJECTS/blob/main/PYTHON%20PROJECTS/Alarm%20Clock%20Generator/new3.py)
+* [Text-to-Speech Translator](https://github.com/priya606/PROJECTS/tree/main/PYTHON%20PROJECTS/Text%20to%20Speech)
 ## Machine Learning Projects
 * [Machine Learning algorithms](https://github.com/priya606/PROJECTS/tree/main/MACHINE%20LEARNING%20PROJECTS)
 Built various Machine Learning models by using supervised and unsupervised ml algorithms like regression and classification
