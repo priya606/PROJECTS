@@ -11,9 +11,3 @@
 # Viewing notes
 ![Code_ojCIrHwLAv](https://github.com/priya606/PROJECTS/assets/72040405/6983c330-3ebc-4fee-aef6-0578b083c73e)
 
-
-![ShareX_eieVqKd2qV](https://github.com/priya606/PROJECTS/assets/72040405/e7711121-d04b-4ba4-816c-6051382d3aea)
-
-
-
-![yMdnR307Ec](https://github.com/priya606/PROJECTS/assets/72040405/64384919-ceb7-4b88-8574-7ff4531d3bf5)
