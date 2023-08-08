@@ -16,3 +16,6 @@ Built various Machine Learning models by using supervised and unsupervised ml al
 ## Django Project
 * [Portfolio](https://github.com/priya606/PROJECTS/tree/main/DJANGO%20PROJECTS)
 * Implemented the portfolio using Django
+
+## PowerBI Project
+* [Sales Performance Dashboard Project](https://github.com/priya606/PROJECTS/tree/main/POWER%20BI)
