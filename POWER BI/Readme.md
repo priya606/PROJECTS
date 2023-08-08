@@ -2,6 +2,7 @@
 
 ## Project Objective 
 
+This dataset contains data from following scenarios: Sales,Profit,Order Date,Region,State.
 To provide success of business by using data analysis techniques focuses on time series analysis
 and accurate sales forecasting and interactive dashboard creation.
 ![](https://github.com/priya606/PROJECTS/assets/72040405/5e835baa-805f-459b-9efc-0404dc0a11b8)
